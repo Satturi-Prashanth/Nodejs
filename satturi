@@ -1,2 +1,13 @@
 Project Management Sample Data
 A project management sample data is suitable for various types of data filtering, analyzing, and visualizing. Here are the variables that we have included in the sample data:
+Inventory Records Sample Data in Excel
+Inventory management records consist of product and stock information. In our sample dataset, we have included the following fields:
+
+Product ID
+Product Name
+Opening Stock
+Purchase/Stock-in
+Number of Units Sold
+Hand-in-stock
+Cost Price Per Unit
+Cost Price Total
